@@ -31,7 +31,7 @@ La interfaz desarrollada es una réplica visual de la vista pública "Empresa", 
 |   |__LogoLaQarta.png
 |   |__Tragos.jpg
 ├── css/
-│ ├── syles.css
+│ ├── styles.css
 ├── README.md
 
 
